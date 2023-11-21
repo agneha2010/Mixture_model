@@ -1,0 +1,5 @@
+,a.est,beta_0.est,beta_1.est,alpha.est
+a.est,1,0.109,0.074,-0.04
+beta_0.est,0.109,1,-0.72,-0.041
+beta_1.est,0.074,-0.72,1,0.025
+alpha.est,-0.04,-0.041,0.025,1

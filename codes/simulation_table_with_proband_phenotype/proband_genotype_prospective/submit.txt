@@ -1,0 +1,3 @@
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_proband_genotype_n5000_beta-1_a0.1_semiparametric_two_pairs_checking_correlation.R  > /home/agarwalan2/Ashkenazi/aUnknown_proband_genotype_n5000_beta-1_a0.1_semiparametric_two_pairs_checking_correlation.out
+
+
