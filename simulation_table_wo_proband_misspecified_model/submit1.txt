@@ -1,5 +1,0 @@
-R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_proband_genotype_n2000_beta1_a0.1.R  > /home/agarwalan2/Ashkenazi/aUnknown_proband_genotype_n2000_beta1_a0.1.out
-
-
-
-
