@@ -1,0 +1,13 @@
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1333_beta0.3_a0.1_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1333_beta0.3_a0.1_semiparametric_two_pairs.out
+
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1000_beta-1_a0.1_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1000_beta-1_a0.1_semiparametric_two_pairs.out
+
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1000_beta1_a0.2_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n1000_beta1_a0.2_semiparametric_two_pairs.out
+
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta0.3_a0.1_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta0.3_a0.1_semiparametric_two_pairs.out
+
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta-1_a0.1_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta-1_a0.1_semiparametric_two_pairs.out
+
+R --vanilla </home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta1_a0.2_semiparametric_two_pairs.R  > /home/agarwalan2/Ashkenazi/aUnknown_theta1_genotype_n50_beta1_a0.2_semiparametric_two_pairs.out
+
+
