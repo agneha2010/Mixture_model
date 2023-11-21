@@ -1,0 +1,3 @@
+R --vanilla </home/agarwalan2/Ashkenazi/bootstrap_variance.R  > /home/agarwalan2/Ashkenazi/data_analysis.out
+
+
